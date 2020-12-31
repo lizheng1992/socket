@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lizheng/CLionProjects/EasyTcp/client.cpp
+iostream
+-
+sys/socket.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+string.h
+-
+

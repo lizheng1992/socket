@@ -1,0 +1,4 @@
+/Users/lizheng/CLionProjects/EasyTcp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lizheng/CLionProjects/EasyTcp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lizheng/CLionProjects/EasyTcp/cmake-build-debug/CMakeFiles/client.dir
+/Users/lizheng/CLionProjects/EasyTcp/cmake-build-debug/CMakeFiles/server.dir
